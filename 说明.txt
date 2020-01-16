@@ -1,0 +1,5 @@
+适用浏览器：360、FireFox、Chrome、Opera、傲游、搜狗、世界之窗. 不支持Safari、IE8及以下浏览器。
+
+请在 var specialNum = 后面设置特等奖号码
+
+总数请在 var code =[] 里面自行删减
